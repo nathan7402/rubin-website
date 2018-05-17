@@ -1,0 +1,20 @@
+/*!
+ * Start Bootstrap - The Big Picture (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	background: none;
+	text-align: center;
+}
+
+.full {
+  background: url(https://stilllifewithgirl.files.wordpress.com/2012/01/calvinhobbes.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
